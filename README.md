@@ -10,7 +10,7 @@ Frameworks and Libraries: React
 Styling: Bootstrap
 Version Control: Git, GitHub
 Tools:VS Code
-Design Tools: Figma, Adobe XD, Sketch
+Design Tools: Figma
 
 - Personal Portfolio Website
 Description: Created a personal portfolio website to showcase my projects and skills.
