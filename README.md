@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatush254
+- 👋 Hi, I’m @fatush
 - 👀 I’m interested in software engineering specializing in frontend development.
 - I have a strong background in creating responsive, user-friendly web interfaces using the latest technologies.
 - I love turning complex problems into simple, beautiful, and intuitive designs....
