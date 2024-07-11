@@ -11,6 +11,10 @@
 ## 🌐 Socials:
   📫 Email:fgalgalo945@gmail.com
   
+💻 Tech Stack:
+JavaScript
+Java Spring Boot AWS Bootstrap React MySQL MongoDB Adobe Premiere Pro Canva Gimp Gnu Image Manipulation Program
+
 
 
 # 💻 Tech Stack:
