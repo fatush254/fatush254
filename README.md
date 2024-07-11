@@ -1,6 +1,6 @@
 
   # 💫 About Me:
- 𝐇𝐄𝐋𝐋𝐎𝐖 𝐂𝐎𝐃𝐄𝐑𝐒..!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - Fatush - ɪ am specializing in frontend development....😎
+ 𝐇𝐄𝐋𝐋𝐎𝐖 𝐂𝐎𝐃𝐄𝐑𝐒..!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - Fatush - ɪ am specializing at frontend development....😎
  
  🌱- I have a strong background in creating responsive, user-friendly web interfaces using the latest technologies.
    
